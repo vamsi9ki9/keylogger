@@ -29,10 +29,9 @@ public class MailProgram {
 	private MailProgram() {
 	};
 
-	private static final String user = "infonetworksec22@gmail.com";
-	//private static final String PASS = "insforinfonetworksecurity";
-	private static final String PASS = "bxfo frko tiuf imuq";
-	private static final String receiver = "infonetworksec22@gmail.com";
+	private static final String user = "please enter your mail ID here";
+	private static final String PASS = "Generated app password for SMTP for gmail";
+	private static final String receiver = "please enter email here, you can mention same email as user in receiver";
 
 	private static Properties emailProperties;
 
